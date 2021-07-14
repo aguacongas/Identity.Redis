@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
-    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="5.0.7" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="5.0.8" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="StackExchange.Redis.StrongName" Version="1.2.6" />
   </ItemGroup>
